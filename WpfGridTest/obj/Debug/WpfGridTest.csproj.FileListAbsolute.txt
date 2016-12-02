@@ -1,0 +1,17 @@
+H:\workspace\WpfGridTest\WpfGridTest\obj\Debug\WpfGridTest.csprojResolveAssemblyReference.cache
+H:\workspace\WpfGridTest\WpfGridTest\obj\Debug\MainWindow.g.cs
+H:\workspace\WpfGridTest\WpfGridTest\obj\Debug\App.g.cs
+H:\workspace\WpfGridTest\WpfGridTest\obj\Debug\GeneratedInternalTypeHelper.g.cs
+H:\workspace\WpfGridTest\WpfGridTest\obj\Debug\WpfGridTest_MarkupCompile.cache
+H:\workspace\WpfGridTest\WpfGridTest\obj\Debug\WpfGridTest_MarkupCompile.lref
+H:\workspace\WpfGridTest\WpfGridTest\bin\Debug\WpfGridTest.exe.config
+H:\workspace\WpfGridTest\WpfGridTest\bin\Debug\WpfGridTest.exe
+H:\workspace\WpfGridTest\WpfGridTest\bin\Debug\WpfGridTest.pdb
+H:\workspace\WpfGridTest\WpfGridTest\bin\Debug\ViewModel.dll
+H:\workspace\WpfGridTest\WpfGridTest\bin\Debug\ViewModel.pdb
+H:\workspace\WpfGridTest\WpfGridTest\obj\Debug\MainWindow.baml
+H:\workspace\WpfGridTest\WpfGridTest\obj\Debug\WpfGridTest.g.resources
+H:\workspace\WpfGridTest\WpfGridTest\obj\Debug\WpfGridTest.Properties.Resources.resources
+H:\workspace\WpfGridTest\WpfGridTest\obj\Debug\WpfGridTest.csproj.GenerateResource.Cache
+H:\workspace\WpfGridTest\WpfGridTest\obj\Debug\WpfGridTest.exe
+H:\workspace\WpfGridTest\WpfGridTest\obj\Debug\WpfGridTest.pdb

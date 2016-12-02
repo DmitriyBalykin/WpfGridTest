@@ -1,0 +1,4 @@
+H:\workspace\WpfGridTest\ViewModel\bin\Debug\ViewModel.dll
+H:\workspace\WpfGridTest\ViewModel\bin\Debug\ViewModel.pdb
+H:\workspace\WpfGridTest\ViewModel\obj\Debug\ViewModel.dll
+H:\workspace\WpfGridTest\ViewModel\obj\Debug\ViewModel.pdb
